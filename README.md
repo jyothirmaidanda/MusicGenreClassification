@@ -15,7 +15,5 @@ librosa for audio feature extraction
 scikit-learn for model building and evaluation
 Jupyter Notebook for analysis and visualization
 
-📁 Dataset Details
+📁 Dataset
 The project uses the GTZAN Genre Collection, a commonly used benchmark dataset containing 10 genres with 100 audio files each.
-
-
