@@ -1,7 +1,7 @@
 # 🎵 Music Genre Classification
 This project focuses on classifying music genres using machine learning models trained on audio feature datasets. It involves preprocessing audio data, feature extraction, and building classification models to accurately predict the genre of a given music clip.
 
-📌 Key Features
+📌 Key Features Are: 
 Extracts meaningful features from audio files (e.g., MFCCs, chroma, spectral contrast)
 Implements machine learning models like Random Forest, SVM, and KNN for genre prediction
 Visualizes dataset insights and model performance using plots and confusion matrices
